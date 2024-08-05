@@ -33,7 +33,7 @@ languages:
     languageCode: en-US
     languageDirection: ltr
     languageName: English
-    title: Yue # Shown in home page
+    title: "@changsublime" # Shown in home page
     weight: 10
     menus:
       main:
@@ -54,9 +54,9 @@ languages:
           weight: 50
     params:
       dateFormat: Jan 02, 2006 # See https://gohugo.io/functions/time/format/
-      author: Jane Doe # Default author, supports single value or list, used in single page
+      author: changseob # Default author, supports single value or list, used in single page
       footer:
         copyright:
           yearStart: 2023 # Optional
           yearEnd: 2024 # Optional, default value: current year
-          author: Jane Doe
+          author: changseob
