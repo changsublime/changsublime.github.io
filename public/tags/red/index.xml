@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/red/</link>
+    <description>Recent content in Red on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 11:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 5</title>
+      <link>http://localhost:1313/en/posts/post-5/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/post-5/</guid>
+      <description>Post 5.&#xA;Lorem # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Post 4 Markdown Test</title>
+      <link>http://localhost:1313/en/posts/post-4/</link>
+      <pubDate>Sat, 13 Jul 2024 16:15:49 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/post-4/</guid>
+      <description>GitHub Flavored Markdown Test # Headers # H1 # H2 # H3 # H4 # H5 # H6 # Emoji # :see_no_evil: :see_no_evil:&#xA;Text # Normal text # I can eat glass, it does not hurt me.I can eat glass, it does not hurt me.I can eat glass, it does not hurt me.I can eat glass, it does not hurt me.I can eat glass, it does not hurt me.I can eat glass, it does not hurt me.</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>http://localhost:1313/en/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-3/</guid>
+      <description>TOC test&#xA;h1 1 # h2 1 # h3 1 # h4 1 # h5 1 # h6 1 # h1 2 # h2 2 # h3 2 # h4 2 # h5 2 # h6 2 # Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit.</description>
+    </item>
+    <item>
+      <title>Post 2 | Multiple authors</title>
+      <link>http://localhost:1313/en/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-2/</guid>
+      <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&#xA;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost:1313/en/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-1/</guid>
+      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&#xA;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
+    </item>
+  </channel>
+</rss>
